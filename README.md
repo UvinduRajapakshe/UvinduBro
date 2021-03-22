@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Uvindu Bro 👻 Corporation  <br>
--  📚 I’m currently learning :  Galahitiyawa Central College  <br>
+-  📚 I went to :  Galahitiyawa Central College  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-www.uvindubro.tk-brightgreen) <br>
