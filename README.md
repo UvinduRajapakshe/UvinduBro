@@ -17,7 +17,8 @@ You can use the website to generate badges: https://shields.io/
 
 # MY TOOLS AND LANG
 
-![Python](https://img.icons8.com/color/72/python.png)&nbsp;&nbsp;![Heroku](https://img.icons8.com/color/2x/heroku.png)
+![Python](https://img.icons8.com/color/72/python.png)&nbsp;&nbsp;![Heroku](https://img.icons8.com/color/2x/heroku.png)&nbsp;&nbsp;![chatbase](https://chatbase.com/static/images/favicon-76x76.png)
+
 
 
 # MOST USED LANGUAGE
