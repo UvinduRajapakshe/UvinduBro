@@ -5,19 +5,23 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://cdn4.iconfinder.com/data/icons/miu-social/60/github-social-media-512.png height="20" width="20" )](https://github.com/UvinduBro)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Janindu:janindumalshan9272@gmail.com)
-&nbsp;
+🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+🔭 I’m currently working on : Uvindu Bro 👻 Corporation  <br>
+📚 I’m currently learning :  Galahitiyawa Central College  <br>
+👯 I’m looking to collaborate : on GITHUB  <br>
+🤔 I’m looking for help : To  Me  <br>
+💬 Ask me about : On Telegram  <br>
+📫 How to reach me : On Telegram  😁
+
 
 # MY TOOLS AND LANG
 
-- ![Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png)&nbsp;&nbsp;
+- ![Python](https://img.icons8.com/color/72/python.png)&nbsp;&nbsp;
 
 
 # MOST USED LANGUAGE
 
-![NOICE](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png)
+![NOICE](https://img.icons8.com/color/72/python.png)
 
 # CONTACT ME ON
 
