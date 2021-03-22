@@ -1,12 +1,11 @@
 # Hey, I am Uvindu Bro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://cdn4.iconfinder.com/data/icons/miu-social/60/github-social-media-512.png)](https://github.com/UvinduBro)
+[![Github](https://cdn4.iconfinder.com/data/icons/miu-social/60/github-social-media-512.png height="20" width="20" )](https://github.com/UvinduBro)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Janindu:janindumalshan9272@gmail.com)
 &nbsp;
