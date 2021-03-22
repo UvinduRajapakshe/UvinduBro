@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 🔭 I’m currently working on : Uvindu Bro 👻 Corporation  <br>
 📚 I’m currently learning :  Galahitiyawa Central College  <br>
 👯 I’m looking to collaborate : on GITHUB  <br>
-🤔 I’m looking for help : To  Me  <br>
+🤔 I’m looking for help : For  Me  <br>
 💬 Ask me about : On Telegram  <br>
 📫 How to reach me : On Telegram  😁
 
