@@ -8,11 +8,11 @@ You can use the website to generate badges: https://shields.io/
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m currently working on : Uvindu Bro 👻 Corporation  <br>
 -  📚 I’m currently learning :  Galahitiyawa Central College  <br>
--  👯 I’m looking to collaborate : on GITHUB  <br>
+-  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : On Telegram  <br>
+-  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-www.uvindubro.tk-brightgreen) <br>
 -  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
--  📫 How to reach me : On Telegram  😁
+-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
 # MY TOOLS AND LANG
