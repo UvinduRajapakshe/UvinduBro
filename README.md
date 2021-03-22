@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 # MY TOOLS AND LANG
 
-- ![Python](https://img.icons8.com/color/72/python.png)&nbsp;&nbsp;
+![Python](https://img.icons8.com/color/72/python.png)&nbsp;&nbsp;
 
 
 # MOST USED LANGUAGE
