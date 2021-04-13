@@ -18,17 +18,32 @@ You can use the website to generate badges: https://shields.io/
 ### My Github Status
 ![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&show_icons=true&theme=dark)
 
+- ![Profile views](https://gpvc.arturio.dev/UvinduBro)
+
 
 
 # MY TOOLS AND LANG
 
-![Python](https://img.icons8.com/color/72/python.png)&nbsp;&nbsp;![Heroku](https://img.icons8.com/color/2x/heroku.png)&nbsp;&nbsp;![chatbase](https://chatbase.com/static/images/favicon-76x76.png)
+<p align ="left">
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br>
+</p>  
 
 
 
-# MOST USED LANGUAGE
-
-![NOICE](https://img.icons8.com/color/72/python.png)
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro)
 
 # CONTACT ME ON
 
