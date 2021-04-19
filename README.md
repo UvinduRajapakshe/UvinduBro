@@ -21,7 +21,6 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/UvinduBro)
 
 
-
 # MY TOOLS AND LANG
 
 <p align ="left">
