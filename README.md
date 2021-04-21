@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&show_icons=true&theme=dark)
+![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
 
 - ![Profile views](https://gpvc.arturio.dev/UvinduBro)
 
@@ -42,7 +42,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro&theme=dark&show_icons=true)
 
 # CONTACT ME ON
 
