@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/UvinduBro)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?UvinduBro=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UvinduBro&theme=alduin" alt="UvinduBro" /></a> </p>
 
 
 
