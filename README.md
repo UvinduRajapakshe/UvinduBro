@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Code%20Palace&style=social)](https://www.youtube.com/c/CodePalace/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Uvindu%20Bro&style=social)](https://www.youtube.com/c/UvinduBro/videos)
 
 
 ### My Github Status
