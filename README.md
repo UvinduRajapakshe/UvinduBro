@@ -15,6 +15,10 @@ You can use the website to generate badges: https://shields.io/
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
+
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Code%20Palace&style=social)](https://www.youtube.com/c/CodePalace/videos)
+
+
 ### My Github Status
 ![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
 
