@@ -4,9 +4,12 @@
 
 - ![Profile views](https://gpvc.arturio.dev/UvinduBro)
 
+<a href="https://app.daily.dev/uvindubro"><img src="https://api.daily.dev/devcards/2ce669971e734b7383b1a25ef2ba2ad9.png?r=k2i" align="rifht" width="400" alt="Uvindu Rajapakshe's Dev Card"/></a>
+
 ### My Github Status
 ![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
 
+</br>
 
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UvinduBro&theme=alduin" alt="UvinduBro" /></a> </p>
